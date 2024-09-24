@@ -64,4 +64,4 @@ In a separate terminal execute:
 If you found an issue on the page or only have a quick suggestion (for example a project to add), please open a new issue in [our issue list](https://github.com/kanahia1/Med.io-Web/issues). Thank you! 👍
 
 ## ✉ Need Help?
-Feel free to mail us on [kaushalkanahia@gmail.com](mailto::kaushalkanahia@gmail.com)
+Feel free to mail us on [dhillongurinder8787@gmail.com](mailto::dhillongurinder8787@gmail.com)
